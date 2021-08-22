@@ -15,6 +15,7 @@ func RandomString() int {
 			fmt.Printf("%c", str[n2])
 		}
 	}
+	fmt.Printf("\n")
 	return 0
 }
 func main() {
