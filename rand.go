@@ -20,4 +20,3 @@ func RandomString() int {
 func main() {
 	RandomString()
 }
-![20210720030840](https://yelvimage.oss-cn-zhangjiakou.aliyuncs.com/image/20210822082638.png)
